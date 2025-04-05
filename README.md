@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a dashboard](https://github.com/MauriceBoendermaker/Project-D)
 
-- 🌱 I’m currently learning **Algorithms & data structures, networking and web development**
+- 🌱 I’m currently learning **Algorithms & data structures, networking, web development, software quality and databases**
 
 - 📫 How to reach me **marksalloum893@gmail.com**
 
